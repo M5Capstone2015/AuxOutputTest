@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuxOutputTest</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="frequencyInputRequest">Enter frequency (20-20000) in Hz...</string>
+    <string name="signalToggleText">Signal Toggle</string>
+</resources>
